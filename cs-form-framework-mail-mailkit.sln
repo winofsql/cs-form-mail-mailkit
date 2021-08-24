@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-form-framework-mail-mailkit", "cs-form-framework-mail-mailkit.csproj", "{5585A90A-0BC2-4194-8C96-6AE333C3FDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5585A90A-0BC2-4194-8C96-6AE333C3FDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5585A90A-0BC2-4194-8C96-6AE333C3FDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5585A90A-0BC2-4194-8C96-6AE333C3FDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5585A90A-0BC2-4194-8C96-6AE333C3FDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0717856C-9AFD-4ED2-B780-4B3E40B07923}
+	EndGlobalSection
+EndGlobal
