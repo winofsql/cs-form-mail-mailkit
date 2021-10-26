@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace cs_form_framework_mail_mailkit
+namespace cs_form_mail_mailkit
 {
     static class Program
     {
