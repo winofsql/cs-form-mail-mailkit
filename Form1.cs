@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace cs_form_framework_mail_mailkit
+namespace cs_form_mail_mailkit
 {
 	public partial class Form1 : Form
 	{
