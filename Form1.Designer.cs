@@ -1,5 +1,5 @@
 ﻿
-namespace cs_form_framework_mail_mailkit
+namespace cs_form_mail_mailkit
 {
     partial class Form1
     {
